@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01_1.cpp" />
-    <ClCompile Include="BetweenAdder.cpp" />
-    <ClCompile Include="HelloWorld.cpp" />
-    <ClCompile Include="SimpleAdder.cpp" />
-    <ClCompile Include="StringIO.cpp" />
+    <ClCompile Include="Chapter01\01_1_IO\01_1.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
