@@ -19,7 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter01\01_1_IO\01_1.cpp" />
+    <ClCompile Include="Chapter03\03_1_Struct\RacingCarEnum.cpp" />
+    <ClCompile Include="Chapter03\03_1_Struct\RacingCarOuterFunc.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

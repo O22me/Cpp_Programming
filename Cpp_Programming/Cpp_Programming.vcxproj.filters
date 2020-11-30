@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter01\01_1_IO\01_1.cpp">
+    <ClCompile Include="Chapter03\03_1_Struct\RacingCarEnum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter03\03_1_Struct\RacingCarOuterFunc.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
