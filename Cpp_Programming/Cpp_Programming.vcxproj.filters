@@ -15,16 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter03\03_2_Class_Object\Car.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter03\03_2_Class_Object\RacingMain.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Chapter03\03_2_Class_Object\Car.h">
+    <ClInclude Include="Chapter03\03_2_Class_Object\03_2\c미쳼색.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Chapter03\03_2_Class_Object\03_2\calculator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter04\04_1_InformationHiding\Point.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter04\04_1_InformationHiding\Rectangle.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter04\04_1_InformationHiding\Point.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
