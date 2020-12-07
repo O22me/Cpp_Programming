@@ -23,6 +23,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="OOPLevel\stage02.cpp">
     <ClCompile Include="Chapter05\05_1_Copy_Constructor\ClassInit.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
