@@ -21,11 +21,9 @@
   <ItemGroup>
     <ClInclude Include="Chapter03\03_2_Class_Object\03_2\calculator.h" />
     <ClInclude Include="Chapter03\03_2_Class_Object\03_2\c미쳼색.h" />
-    <ClInclude Include="Chapter04\04_1_InformationHiding\Rectangle.h" />
-    <ClInclude Include="Chapter04\04_1_InformationHiding\Point.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter04\04_1_InformationHiding\Point.cpp" />
+    <ClCompile Include="OOPLevel\stage02.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
