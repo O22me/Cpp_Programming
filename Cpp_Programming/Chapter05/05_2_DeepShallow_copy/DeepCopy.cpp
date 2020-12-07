@@ -17,6 +17,11 @@ public:
 		strcpy_s(name, len, myname);
 		age = myage;
 	}
+	Person(const Person& person) : age(person.age)
+	{
+		name = new char[strlen(person.name) + 1];
+		strcpy_s(name, strlen(person.name) + 1, person.name);
+	}
 	void ShowPersonInfo() const
 	{
 		cout << "ÀÌ¸§: " << name << endl;
