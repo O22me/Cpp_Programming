@@ -23,7 +23,7 @@
     <ClInclude Include="Chapter03\03_2_Class_Object\03_2\c미쳼색.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter08\08_1_ObjectPointerRef\EmployeeManager3.cpp" />
+    <ClCompile Include="Chapter08\08_2_Virtual_Function\FunctionOverride.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
