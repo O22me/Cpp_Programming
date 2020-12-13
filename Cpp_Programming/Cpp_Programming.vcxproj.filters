@@ -5,6 +5,6 @@
     <ClInclude Include="Chapter03\03_2_Class_Object\03_2\c미쳼색.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter08\08_2_Virtual_Function\FunctionOverride.cpp" />
+    <ClCompile Include="Chapter08\08_3_Virtual_Destructor\VirtualDestructor.cpp" />
   </ItemGroup>
 </Project>
