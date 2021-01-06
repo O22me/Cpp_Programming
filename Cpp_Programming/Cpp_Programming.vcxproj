@@ -23,7 +23,7 @@
     <ClInclude Include="Chapter03\03_2_Class_Object\03_2\c미쳼색.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter10\10_4_cout_cin_endl\ConsoleOutput.cpp" />
+    <ClCompile Include="Chapter10\10_1_OperatorBasic\10_1\Q1_operator-.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
