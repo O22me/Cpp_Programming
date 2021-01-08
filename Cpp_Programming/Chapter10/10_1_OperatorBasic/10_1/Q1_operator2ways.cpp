@@ -28,6 +28,7 @@ public:
 		return *this;
 	}
 	friend bool operator==(const Point& p1, const Point& p2);
+	friend bool operator!=(const Point& p1, const Point& p2);
 };
 
 Point operator-(const Point& p1, const Point& p2)
@@ -43,6 +44,10 @@ bool operator==(const Point& p1, const Point& p2)
 		return true;
 	}
 	else return false;
+}
+bool operator!=(const Point& p1, const Point& p2)
+{
+	return !(p1 == p2);
 }
 
 int main(void)
